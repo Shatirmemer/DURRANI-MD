@@ -112,7 +112,7 @@ let up = `*╭──────────────●●►*
 *│✫➠ - 📂REPOSITORY NAME:*DURRANI-MD*
 *│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
 *│✫➠ - 🛡️OWNER:* *FAISAL-DURRANI*
-*│✫➠ - 🌐URL:* *https://github.com/Shatirmemer*
+*│✫➠ - 🌐URL:* *https://github.com/Shatirmemer/DURRANI-MD*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
