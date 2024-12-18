@@ -16,7 +16,7 @@ let repo =`
 *|* *DURRANI-MD*
 
 > *DURRANI-MD REPO:*
-*|* *https://github.com/Shatirmemer*
+*|* *https://github.com/Shatirmemer/DURRANI-MD*
 
 > *SUPPORT GROUP:*
 *|* *.......................................................*
@@ -39,7 +39,7 @@ externalAdReply: {
 title: 'DURRANI-MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Shatirmemer" ,
+sourceUrl: "https://github.com/Shatirmemer/DURRANI-MD" ,
 thumbnailUrl: "https://files.catbox.moe/9cp93q.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
