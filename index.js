@@ -192,7 +192,7 @@ if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923251869133")){
+if(senderNumber.includes("923479188912")){
 if(isReact) return
 m.react("🦋")
 }
@@ -200,7 +200,7 @@ m.react("🦋")
 //AutoReact 
 if (!isReact && senderNumber !== botNumber) {
 if (config.AUTO_REACT === 'true')
-    m.react("💖");
+    m.react("🖤");
 }
 if (!isReact && senderNumber === botNumber) {
 if (config.OWNER_REACT === 'true')
