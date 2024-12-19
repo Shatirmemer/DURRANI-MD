@@ -40,7 +40,7 @@ title: 'DURRANI-MD',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/Shatirmemer/DURRANI-MD" ,
-thumbnailUrl: "https://files.catbox.moe/9cp93q.jpg" ,
+thumbnailUrl: "https://i.ibb.co/68L65DB/17aafb1e66c52c22.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
