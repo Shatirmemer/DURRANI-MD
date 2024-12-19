@@ -1,7 +1,7 @@
 {
   "name": "DURRANI-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ FAISAL-DURRANI",
-  "logo": "https://files.catbox.moe/9cp93q.jpg",
+  "logo": "https://i.ibb.co/68L65DB/17aafb1e66c52c22.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/9cp93q.jpg"
+      "value": "https://i.ibb.co/68L65DB/17aafb1e66c52c22.jpg"
     }, 
     
     "ALIVE_MSG": {
