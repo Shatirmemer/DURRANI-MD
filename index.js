@@ -112,12 +112,12 @@ let up = `*╭──────────────●●►*
 *│✫➠ - 📂REPOSITORY NAME:*DURRANI-MD*
 *│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
 *│✫➠ - 🛡️OWNER:* *FAISAL-DURRANI*
-*│✫➠ - 🌐URL:* *https://github.com/Shatirmemer*
+*│✫➠ - 🌐URL:* *https://github.com/Shatirmemer/DURRANI-MD/*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
 *╰──────────────●●►*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/9cp93q.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/68L65DB/17aafb1e66c52c22.jpg` }, caption: up })
 
 }
 })
@@ -192,15 +192,15 @@ if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923251869133")){
+if(senderNumber.includes("923479188912")){
 if(isReact) return
-m.react("🦋")
+m.react("🇵🇰")
 }
 //==========================public react===============//
 //AutoReact 
 if (!isReact && senderNumber !== botNumber) {
 if (config.AUTO_REACT === 'true')
-    m.react("💖");
+    m.react("🌸");
 }
 if (!isReact && senderNumber === botNumber) {
 if (config.OWNER_REACT === 'true')
